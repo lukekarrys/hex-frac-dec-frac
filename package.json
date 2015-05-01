@@ -1,6 +1,6 @@
 {
   "name": "hex-frac-dec-frac",
-  "description": "The most recent Dow Jones opening for a date.",
+  "description": "Convert a hexadecimal fraction to a decimal fraction.",
   "version": "0.0.0",
   "author": "Luke Karrys",
   "bugs": {
