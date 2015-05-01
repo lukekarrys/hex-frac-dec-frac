@@ -1,7 +1,7 @@
 {
   "name": "hex-frac-dec-frac",
   "description": "Convert a hexadecimal fraction to a decimal fraction.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Luke Karrys",
   "bugs": {
     "url": "https://github.com/lukekarrys/hex-frac-dec-frac/issues"
