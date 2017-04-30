@@ -1,6 +1,8 @@
 hex-frac-dec-frac
 ===================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lukekarrys/hex-frac-dec-frac.svg)](https://greenkeeper.io/)
+
 Convert a hexadecimal fraction to a decimal fraction.
 
 This is different from `hexToDec` from libraries like [`all-your-base`](https://www.npmjs.com/package/all-your-base) (as I just learned).
