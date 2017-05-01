@@ -10,6 +10,7 @@ I use this for [xkcd Geohashing](https://xkcd.com/426/).
 [![NPM](https://nodei.co/npm/hex-frac-dec-frac.png)](https://nodei.co/npm/hex-frac-dec-frac/)
 [![Build Status](https://travis-ci.org/lukekarrys/hex-frac-dec-frac.png?branch=master)](https://travis-ci.org/lukekarrys/hex-frac-dec-frac)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+[![Greenkeeper badge](https://badges.greenkeeper.io/lukekarrys/hex-frac-dec-frac.svg)](https://greenkeeper.io/)
 
 
 ## Install
